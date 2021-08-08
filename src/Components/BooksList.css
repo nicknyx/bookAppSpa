@@ -1,0 +1,28 @@
+.listStyle {
+    box-sizing: content-box;
+    width: 270px;
+    height: 350px;
+    border: solid;
+    border-width: 6px 10px;
+    border-color: #784713;
+    margin: 20px;
+}
+.imgList{
+    width: 60%;
+    height: 60%;
+}
+.titleList{
+    font-size: 17px;
+    font-style: italic;
+    color: black;
+}
+
+.autorsList{
+    font-style: normal;
+    font-size: 13px;
+}
+
+.genreList{
+    text-align: left;
+    font-size: 15px;
+}

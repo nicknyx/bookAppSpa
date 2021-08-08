@@ -1,0 +1,48 @@
+/*Styling GridBooks Component*/
+.gridStyle {
+    box-sizing: content-box;
+    width: 270px;
+    height: 350px;
+    border: solid;
+    border-width: 6px 10px;
+    border-color: #784713;
+    margin: 20px;
+}
+.imgGrid{
+    width: 60%;
+    height: 60%;
+}
+.titleGrid{
+    font-size: 17px;
+    font-style: italic;
+    color: black;
+}
+
+.autorsGrid{
+    font-style: normal;
+    font-size: 13px;
+}
+
+.genreGrid{
+    text-align: left;
+    font-size: 10px;
+}
+
+.openModalGrid{
+    display: flex;
+    justifyContent: flex-end;
+    margin-left: auto;
+    float: right;
+    margin-top: 15px;
+
+    background-color: #0066FF;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+
+}
